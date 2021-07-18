@@ -1,0 +1,6 @@
+{
+  "botToken": "TOKEN",
+  "guildID": "GuildID",
+  "roleIDs": ["RoleID", "RoleID", "...."],
+  "interval": "10000"
+}
